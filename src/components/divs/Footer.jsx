@@ -2,7 +2,6 @@ import React from "react";
 import "./Footer.css";
 
 import {
-  FaWhatsapp,
   FaTwitter,
   FaFacebook,
   FaDiscord,
@@ -13,14 +12,6 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a
-          title="linkWhatsapp"
-          target="_blank"
-          rel="noreferrer"
-          href="https://api.whatsapp.com/send?phone=5554999790871"
-        >
-          <FaWhatsapp />
-        </a>
         <a
           title="linkTwitter"
           target="_blank"
