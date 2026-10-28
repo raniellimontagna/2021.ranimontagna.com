@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.536eada5.chunk.css",
+    "main.js": "/static/js/main.192ea540.chunk.js",
+    "main.js.map": "/static/js/main.192ea540.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3128e6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3128e6f.js.map",
+    "static/css/2.d8200531.chunk.css": "/static/css/2.d8200531.chunk.css",
+    "static/js/2.7b29bb05.chunk.js": "/static/js/2.7b29bb05.chunk.js",
+    "static/js/2.7b29bb05.chunk.js.map": "/static/js/2.7b29bb05.chunk.js.map",
+    "static/js/3.e235daec.chunk.js": "/static/js/3.e235daec.chunk.js",
+    "static/js/3.e235daec.chunk.js.map": "/static/js/3.e235daec.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d8200531.chunk.css.map": "/static/css/2.d8200531.chunk.css.map",
+    "static/css/main.536eada5.chunk.css.map": "/static/css/main.536eada5.chunk.css.map",
+    "static/js/2.7b29bb05.chunk.js.LICENSE.txt": "/static/js/2.7b29bb05.chunk.js.LICENSE.txt",
+    "static/media/Copo-BailaConmigo.ce4a0d33.webp": "/static/media/Copo-BailaConmigo.ce4a0d33.webp",
+    "static/media/GnaLogo.4143de96.webp": "/static/media/GnaLogo.4143de96.webp",
+    "static/media/logoWhite.1c6269d6.png": "/static/media/logoWhite.1c6269d6.png",
+    "static/media/logo_alphafragrance.acc00e3d.webp": "/static/media/logo_alphafragrance.acc00e3d.webp",
+    "static/media/myPhoto.33d40169.jpg": "/static/media/myPhoto.33d40169.jpg",
+    "static/media/perfilPhotoR6.278bc5c4.webp": "/static/media/perfilPhotoR6.278bc5c4.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3128e6f.js",
+    "static/css/2.d8200531.chunk.css",
+    "static/js/2.7b29bb05.chunk.js",
+    "static/css/main.536eada5.chunk.css",
+    "static/js/main.192ea540.chunk.js"
+  ]
+}
