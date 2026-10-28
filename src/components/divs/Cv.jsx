@@ -1,7 +1,6 @@
 import React from "react";
 import "./Cv.css";
 
-import { Link } from "react-router-dom";
 
 function Cv() {
   return (
@@ -58,15 +57,6 @@ function Cv() {
           </div>
         </div>
       </div>
-      <Link
-        data-aos="fade-left"
-        className="btnCV"
-        to="/curriculo.pdf"
-        target="_blank"
-        download="curriculo.pdf"
-      >
-        Baixar CV
-      </Link>
     </div>
   );
 }

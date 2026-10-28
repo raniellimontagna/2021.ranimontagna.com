@@ -63,18 +63,6 @@ function Contact() {
           <p data-aos="fade-down" data-aos-anchor-placement="center-bottom">
             raniellimontagna@hotmail.com
           </p>
-          <h6 data-aos="fade-down" data-aos-anchor-placement="center-bottom">
-            TELEFONE
-          </h6>
-          <p data-aos="fade-down" data-aos-anchor-placement="center-bottom">
-            +55 54 99979-0871
-          </p>
-          <h6 data-aos="fade-down" data-aos-anchor-placement="center-bottom">
-            ENDEREÇO
-          </h6>
-          <p data-aos="fade-down" data-aos-anchor-placement="center-bottom">
-            Paraí, RS - Linha Navegantes, 2035
-          </p>
         </div>
       </div>
     </div>
